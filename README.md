@@ -44,7 +44,7 @@ The roadmaps are built using [Balsamiq](https://balsamiq.com/products/mockups/).
 - Open pull request with improvements
 - Discuss ideas in issues
 - Spread the word
-- Reach out to me directly at kamranahmed.se@gmail.com or on twitter [@kamranahmedse](http://twitter.com/kamranahmedse)
+- Reach out to me directly at jbpashu@gmail.com or on twitter [@jbpashu(http://twitter.com/jbpashu)
 
 ## Licence
 
